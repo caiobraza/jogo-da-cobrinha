@@ -41,4 +41,4 @@ Uma releitura moderna e estilizada do clássico **Jogo da Cobrinha (Snake)** des
    ```bash
    pip install pygame
 
-3. git clone [https://github.com/caiobraza/jogo-da-cobrinha.git](https://github.com/caiobraza/jogo-da-cobrinha.git)
+3. git clone [https://github.com/caiobraza/jogo-da-cobrinha.git]
